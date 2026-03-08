@@ -1,115 +1,106 @@
 # Elfin
-👋 Hi, I'm Elfinstone Basumatary  🎯 Data Science Aspirant | Machine Learning Engineer in Progress   📍 Based in New Delhi, India   📫 elfinstoneb@gmail.com.com  
-🚀 About Me
- 
-```python
-class DataScienceProfile:
-    def __init__(self):
-        self.name = "<Elfinstone>"
-        self.role = "Data Science Learner"
-        self.focus = ["Machine Learning", "Deep Learning", "Statistics"]
-        self.current_learning = "Generative AI & MLOps"
-        self.goal = "Build scalable AI systems"
- 
-    def mission(self):
-        return "Transforming data into actionable intelligence."
- 
-- 📊 Strong foundation in Statistics & Probability  
-- 🤖 Building end-to-end ML pipelines  
-- 📚 Actively learning advanced ML & deployment  
-- 🧠 Interested in AI research & real-world systems  
- 
+<h1 align="center">Hi 👋, I'm Elfin</h1>
+
+<p align="center">
+Aspiring Data Scientist | Python Learner | Data Enthusiast
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Machine+Learning+Learner;Python+Developer;Data+Analytics+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Elfin-GitHub-Username&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
- 
- 🛠 Tech Stack
- 
-👨‍💻 Programming
+
+# 👨‍💻 About Me
+
+- 🎯 Aspiring **Data Scientist**
+- 📊 Passionate about **Data Analysis & Machine Learning**
+- 🐍 Currently learning **Python, Pandas, NumPy**
+- 📈 Interested in **Data Visualization & AI**
+- 🌱 Exploring **Machine Learning Algorithms**
+- ⚡ Fun fact: *I enjoy turning raw data into insights*
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-📊 Data Science
+
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
- 
-🤖 Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
- 
-📈 Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
- 
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
 ---
- 
-📌 Featured Projects
- 
-🔍 Customer Churn Prediction
-- Built ML classification model to predict churn
-- Feature engineering + model tuning
-- Achieved XX% ROC-AUC  
-**Tech:** Python, XGBoost, Pandas
- 
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Elfin-GitHub-Username&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elfin-GitHub-Username&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elfin-GitHub-Username&layout=compact&theme=tokyonight"/>
+
+</p>
+
 ---
- 
-🧠 Sentiment Analysis (NLP)
-- Text preprocessing pipeline  
-- Transformer-based classification  
-- Fine-tuned BERT  
-**Tech:** PyTorch, HuggingFace
- 
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Elfin-GitHub-Username&theme=algolia"/>
+</p>
+
 ---
- 
-📈 Time Series Forecasting
-- Built LSTM model for forecasting  
-- Hyperparameter tuning  
-- Performance comparison vs ARIMA  
-**Tech:** TensorFlow, Keras
- 
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elfin-GitHub-Username&theme=tokyo-night"/>
+</p>
+
 ---
- 📊 GitHub Analytics
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
- 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
- 
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|------|-------------|------|
+| 📊 Data Analysis Project | Exploratory data analysis on dataset | Python, Pandas |
+| 🤖 ML Model | Machine learning prediction model | Scikit-Learn |
+| 📈 Visualization Dashboard | Data visualization project | Matplotlib |
+
 ---
- 
-## 📚 Currently Learning
- 
-- Advanced Machine Learning  
-- Generative AI  
-- Model Deployment (Docker, FastAPI)  
-- MLOps fundamentals  
- 
+
+# 📚 Currently Learning
+
+- Machine Learning
+- Statistics for Data Science
+- Data Visualization
+- SQL for Data Analysis
+
 ---
- 
-🎯 2026 Goals
- 
-- 🚀 Build 10 end-to-end ML projects  
-- 📖 Publish technical blogs  
-- 🏆 Participate in Kaggle competitions  
-- 🤝 Contribute to open source  
- 
+
+# 💡 Quote I Believe In
+
+> “Without data, you're just another person with an opinion.”  
+> — W. Edwards Deming
+
 ---
- 
-📈 Contribution Snake (Optional)
- 
-Add this if you generate the snake animation:
- 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
- 
----
- 
-## 👀 Profile Views
- 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
- 
----
- 
-## 🤝 Let’s Connect
- 
-If you’re working on AI / ML / Data projects, feel free to collaborate.
+
+⭐️ From [Elfin](https://github.com/Elfin-GitHub-Username)
