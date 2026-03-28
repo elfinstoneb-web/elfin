@@ -81,9 +81,9 @@ Aspiring Data Scientist | Python Learner | Data Enthusiast
 
 | Project | Description | Tech |
 |------|-------------|------|
-| 📊 Data Analysis Project | Exploratory data analysis on dataset | Python, Pandas |
-| 🤖 ML Model | Machine learning prediction model | Scikit-Learn |
-| 📈 Visualization Dashboard | Data visualization project | Matplotlib |
+|  Data Analysis Project | Exploratory data analysis on dataset | Python, Pandas |
+|  ML Model | Machine learning prediction model | Scikit-Learn |
+|  Visualization Dashboard | Data visualization project | Matplotlib |
 
 ---
 
