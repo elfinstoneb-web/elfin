@@ -17,12 +17,12 @@ Aspiring Data Scientist | Python Learner | Data Enthusiast
 
 # 👨‍💻 About Me
 
-- 🎯 Aspiring **Data Scientist**
-- 📊 Passionate about **Data Analysis & Machine Learning**
-- 🐍 Currently learning **Python, Pandas, NumPy**
-- 📈 Interested in **Data Visualization & AI**
-- 🌱 Exploring **Machine Learning Algorithms**
-- ⚡ Fun fact: *I enjoy turning raw data into insights*
+-  Aspiring **Data Scientist**
+-  Passionate about **Data Analysis & Machine Learning**
+-  Currently learning **Python, Pandas, NumPy**
+-  Interested in **Data Visualization & AI**
+-  Exploring **Machine Learning Algorithms**
+-  Fun fact: *I enjoy turning raw data into insights*
 
 ---
 
@@ -61,7 +61,7 @@ Aspiring Data Scientist | Python Learner | Data Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Elfin-GitHub-Username&theme=algolia"/>
@@ -69,7 +69,7 @@ Aspiring Data Scientist | Python Learner | Data Enthusiast
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elfin-GitHub-Username&theme=tokyo-night"/>
@@ -77,7 +77,7 @@ Aspiring Data Scientist | Python Learner | Data Enthusiast
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Description | Tech |
 |------|-------------|------|
